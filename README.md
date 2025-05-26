@@ -3,8 +3,8 @@
 I'm an **unemployed Unity developer** with a degree of **Bachelor of Science in Entertainment and Multimedia Computing**. I am passionate about creating tools and systems that make game development smoother and more enjoyable.
 
 ## 🛠️ Tech Stack
-- **Languages:** C#
-- **Game Engine:** Unity
+- **Languages:** C#, Java, Python, C, C++, Rust
+- **Game Engine:** Unity, Godot, Bevy
 
 ## 🚀 Featured Projects
 
