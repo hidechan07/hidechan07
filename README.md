@@ -20,9 +20,11 @@ I'm an **unemployed Unity developer** with a degree of **Bachelor of Science in 
 - 🤫 I'm introverted, but always happy to connect over a shared love for game dev.
 - 🎮 In my free time, you'll find me playing Zelda, gacha games, binging YouTube or exploring new game mechanics.
 
+
+
 ## 🌐 Portfolio
 
-- [aronjake-portfolio.netlify.app](https://aronjake-portfolio.netlify.app/)
+- [aronjakeradam.netlify.app](https://aronjakeradam.netlify.app/)
 
 ## 📫 Socials
 
