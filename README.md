@@ -14,6 +14,11 @@ I'm an **unemployed Unity developer** with a degree of **Bachelor of Science in 
 - [**DebugCommandSystem**](https://github.com/haruchanz64/DebugCommandSystem)  
   Extendable, in-editor and in-game debug command system for Unity—making testing and troubleshooting a breeze.
 
+- [**SaveEncryptionToolkit**](https://github.com/haruchanz64/SaveEncryptionToolkit)  
+  A flexible, encryption-ready save system toolkit for Unity. Use your own save manager while leveraging this toolkit’s robust encryption and serialization utilities.
+
+
+
 ## 💡 About Me
 
 - 🧑‍💻 I love tinkering with Unity editor tools and backend systems.
