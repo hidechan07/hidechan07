@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Haru!
+# 👋 Hi, I'm Hide (/çi.de/)!
 
 I'm an **unemployed Unity developer** with a degree of **Bachelor of Science in Entertainment and Multimedia Computing**. I am passionate about creating tools and systems that make game development smoother and more enjoyable.
 
