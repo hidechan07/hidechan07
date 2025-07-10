@@ -7,18 +7,18 @@ I'm an **unemployed Unity developer** with a degree of **Bachelor of Science in 
 - **Game Engine:** Unity, Godot, Bevy
 
 ## 🚀 Featured Projects
-- [**Unity Event Toolkit**](https://github.com/hidechan07/UnityEventToolkit).
+- [**Unity Event Toolkit**](https://github.com/haruchanz64/UnityEventToolkit).
 
   A comprehensive Unity toolkit that empowers developers to efficiently manage, analyze, and optimize UnityEvents for robust project performance.
-- [**ScriptableBatchTool**](https://github.com/hidechan07/ScriptableBatchTool)  
+- [**ScriptableBatchTool**](https://github.com/haruchanz64/ScriptableBatchTool)  
 
    A Unity tool to streamline batch processing with ScriptableObjects. Designed for efficiency and flexibility in large projects.
   
-- [**DebugCommandSystem**](https://github.com/hidechan07/DebugCommandSystem)  
+- [**DebugCommandSystem**](https://github.com/haruchanz64/DebugCommandSystem)  
 
   Extendable, in-editor and in-game debug command system for Unity—making testing and troubleshooting a breeze.
 
-- [**SaveEncryptionToolkit**](https://github.com/hidechan07/SaveEncryptionToolkit)  
+- [**SaveEncryptionToolkit**](https://github.com/haruchanz64/SaveEncryptionToolkit)  
 
   A flexible, encryption-ready save system toolkit for Unity. Use your own save manager while leveraging this toolkit’s robust encryption and serialization utilities.
 
